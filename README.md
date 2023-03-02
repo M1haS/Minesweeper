@@ -1,2 +1,2 @@
 # Minesweeper
-Minesweeper on Python
+Python Minesweeper on tkinter
